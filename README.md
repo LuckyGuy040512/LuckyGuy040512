@@ -1,16 +1,51 @@
-## Hi there 👋
+# Yifan (Frank) Fei
 
-<!--
-**LuckyGuy040512/LuckyGuy040512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Eng. in Financial Engineering @ Cornell University**  
+Quantitative research · Machine learning · Portfolio construction
 
-Here are some ideas to get you started:
+I build reproducible research workflows for studying signals, validating models,
+and translating forecasts into portfolios under realistic constraints. I care
+especially about point-in-time correctness, out-of-sample evaluation, execution
+costs, and clear separation between public demonstrations and proprietary work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Quant Research Toolkit](https://github.com/LuckyGuy040512/quant-research-toolkit)
+
+A clean-room Python toolkit that demonstrates an end-to-end quantitative
+research workflow using synthetic data and textbook signals:
+
+- cross-sectional factor evaluation and diagnostics;
+- purged walk-forward validation with leakage checks;
+- comparable machine-learning baselines with fold-local preprocessing;
+- uncertainty-aware ranking and portfolio construction;
+- constrained allocation, turnover, slippage, and transaction-cost modeling;
+- reproducible reports, examples, and automated tests.
+
+The public repository contains no employer code, licensed data, proprietary
+factor definitions, private strategy logic, or confidential performance results.
+
+## Research interests
+
+- Cross-sectional and time-series signal research
+- Statistical learning for asset returns
+- Uncertainty-aware forecasting and ranking
+- Portfolio optimization and robust allocation
+- Backtesting methodology, market frictions, and research reproducibility
+
+## Technical toolkit
+
+`Python 3.10+` · `NumPy` · `pandas` · `scikit-learn` · `Matplotlib` · `Git`
+
+## Research principles
+
+1. Preserve point-in-time information and prevent look-ahead leakage.
+2. Evaluate models on genuinely out-of-sample periods.
+3. Make turnover, trading costs, and portfolio constraints explicit.
+4. Prefer small, auditable components and reproducible outputs.
+5. Protect confidential data, code, and alpha-generation logic.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/frank-fei-b5765a347) ·
+[Quant Research Toolkit](https://github.com/LuckyGuy040512/quant-research-toolkit)

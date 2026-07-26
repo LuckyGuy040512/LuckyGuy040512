@@ -11,6 +11,13 @@ and translating forecasts into portfolios under realistic constraints. I care
 especially about point-in-time correctness, out-of-sample evaluation, execution
 costs, and clear separation between public demonstrations and proprietary work.
 
+## Education
+
+- **Cornell University** — M.Eng. in Financial Engineering, Expected Dec 2027
+- **The Chinese University of Hong Kong, Shenzhen** — BBA in Finance,
+  First Class Honours, May 2026
+- **UC Berkeley Haas School of Business** — Visiting Student, Jan–May 2025
+
 ## Featured project
 
 ### [Quant Research Toolkit](https://github.com/LuckyGuy040512/quant-research-toolkit)
@@ -29,8 +36,28 @@ research workflow using synthetic data and textbook signals:
 for the research question, experimental design, leakage controls, cost analysis,
 and limitations.
 
+[View the resume-to-code capability map](https://github.com/LuckyGuy040512/quant-research-toolkit/blob/main/docs/capability_map.md)
+for a transparent guide to which capabilities have executable public evidence
+and which implementations are intentionally kept private.
+
 The public repository contains no employer code, licensed data, proprietary
 factor definitions, private strategy logic, or confidential performance results.
+
+## Selected research work
+
+- **Event-driven research:** forward-return paths, false-breakout behavior,
+  drawdown diagnostics, and comparative research dashboards.
+- **Systematic strategy research:** state machines, adaptive thresholds,
+  holding and cooldown logic, and execution-aware backtests.
+- **Cross-sectional alpha and ML:** factor diagnostics, model comparison,
+  walk-forward validation, uncertainty-aware ranking, and cost-aware
+  out-of-sample evaluation.
+- **Automated discovery and deep learning:** symbolic expression-tree research
+  and event-driven Transformer replication; sensitive implementations remain
+  private.
+- **Asset allocation:** equal weight, constrained mean-variance,
+  Black-Litterman, and two-stage tactical allocation; Kaggle Bronze Medal in
+  Hull Tactical Market Prediction (244/3,677 teams).
 
 ## Research interests
 
@@ -42,7 +69,12 @@ factor definitions, private strategy logic, or confidential performance results.
 
 ## Technical toolkit
 
-`Python 3.10+` · `NumPy` · `pandas` · `scikit-learn` · `Matplotlib` · `Git`
+**Primary:** `Python`
+
+**Research languages and tools:** `C++` · `SQL` · `R` · `MATLAB` · `Stata`
+
+**Public repository stack:** `NumPy` · `pandas` · `scikit-learn` ·
+`Matplotlib` · `Git` · `GitHub Actions`
 
 ## Research principles
 

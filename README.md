@@ -1,6 +1,9 @@
 # Yifan (Frank) Fei
 
-**M.Eng. in Financial Engineering @ Cornell University**  
+**M.Eng. in Financial Engineering @ Cornell University - Expected Dec 2027**
+
+*Seeking Summer 2027 Quant Research / Systematic Trading Internships*
+
 Quantitative research · Machine learning · Portfolio construction
 
 I build reproducible research workflows for studying signals, validating models,
@@ -21,6 +24,10 @@ research workflow using synthetic data and textbook signals:
 - uncertainty-aware ranking and portfolio construction;
 - constrained allocation, turnover, slippage, and transaction-cost modeling;
 - reproducible reports, examples, and automated tests.
+
+[Read the clean-room research case study](https://github.com/LuckyGuy040512/quant-research-toolkit/blob/main/docs/research_case_study.md)
+for the research question, experimental design, leakage controls, cost analysis,
+and limitations.
 
 The public repository contains no employer code, licensed data, proprietary
 factor definitions, private strategy logic, or confidential performance results.
